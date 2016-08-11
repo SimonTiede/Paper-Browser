@@ -29,3 +29,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Too big for git, shouldnt be relevant though
+
+/Assets/Plugins/EMGU/cufft64_75.dll
+/Assets/Plugins/EMGU/opencv_cudaarithm310.dll
+/Assets/Plugins/EMGU/opencv_cudafilters310.dll

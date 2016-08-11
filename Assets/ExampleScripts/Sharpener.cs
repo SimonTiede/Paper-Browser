@@ -44,6 +44,7 @@ public class Sharpener : MonoBehaviour {
                 if ((i + x) < picture.Height && (i + x) >= 0 && (i + y) < picture.Width && (i + y) >= 0)
                 {
                     a = 1;
+                    a = a + a - a;
                 }
             }
         }
